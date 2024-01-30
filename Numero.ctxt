@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Numero
+comment1.params=valor
+comment1.target=Numero(int)
+comment2.params=
+comment2.target=boolean\ ehPrimo()
+comment3.params=
+comment3.target=boolean\ ehPerfeito()
+comment4.params=
+comment4.target=boolean\ ehFeliz()
+comment5.params=numero
+comment5.target=int[]\ partes(int)
+numComments=6
